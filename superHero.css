@@ -1,0 +1,7 @@
+figure {
+    text-align: center;
+    display: table; 
+    align-content: left;
+    width: 30%; 
+    margin: 10px auto; 
+}
